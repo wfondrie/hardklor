@@ -20,7 +20,7 @@ Uses Mercury code, with permission, from Alan L. Rockwood and Steve van Orden
 #define _CMercury8_H
 
 #include <cstdio>
-//#include <cstdlib>
+#include <cstdlib>
 #include <cmath>
 #include <cstring>
 #include "ctype.h"
