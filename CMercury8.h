@@ -19,7 +19,7 @@ Uses Mercury code, with permission, from Alan L. Rockwood and Steve van Orden
 #ifndef _CMercury8_H
 #define _CMercury8_H
 
-//#include <cstdio>
+#include <cstdio>
 //#include <cstdlib>
 #include <cmath>
 #include <cstring>
